@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on The Joy of Data</title>
+    <link>http://www.joypayton.com/post/index.xml</link>
+    <description>Recent content in Post-rsses on The Joy of Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jan 2017 11:48:45 -0500</lastBuildDate>
+    <atom:link href="http://www.joypayton.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://www.joypayton.com/post/welcome/</link>
+      <pubDate>Fri, 27 Jan 2017 11:48:45 -0500</pubDate>
+      
+      <guid>http://www.joypayton.com/post/welcome/</guid>
+      <description>
+
+&lt;h2 id=&#34;joy-payton-s-blog&#34;&gt;Joy Payton&amp;rsquo;s Blog&lt;/h2&gt;
+
+&lt;p&gt;Just a test message as I get things up and running!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
